@@ -5,7 +5,6 @@ An API for a social network web application where users can share their thoughts
 
 - [User Story](#user-story)
 - [Acceptance Criteria](#acceptance-criteria)
-- [Screenshots](#screenshots)
 - [Author](#author)
 - [Deployment](#deployment)
 - [License](#license)
@@ -50,7 +49,7 @@ THEN I am able to successfully create and delete reactions to thoughts and add a
 ## Deployment
 
 
-Video: 
+
 
 Github: https://github.com/Purplepenguin67/social-network-api
 
